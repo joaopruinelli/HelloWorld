@@ -4,7 +4,7 @@
 >Essa linha eu adicionei direto do site!
 ***
 ## Aula de linguagem Markdown
-Estou aprendendo linguagem de marcação __*Markdown*__
+- [x] Estou aprendendo linguagem de marcação __*Markdown*__
 
 ### Escrevendo listas
 1. Em __negrito com underline__
