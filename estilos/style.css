@@ -4,13 +4,38 @@
 }
 
 body {
-    background-color: rgb(139, 116, 202);
+    background-color: #916BBF;
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
+}
+
+h1 {
+    font-size: 2rem;
+    color: #1C0C5B
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #3D2C8D
+}
+
+.lado {
+    float: right;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #3D2C8D
+}
+
+a:hover {
+    text-decoration: none;
+    color: #C996CC
 }
